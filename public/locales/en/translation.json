@@ -1,0 +1,32 @@
+{
+    "portfolio": "PORTFOLIO",
+    "blog": "Blog",
+    "cv": "CV",
+    "store": "STORE",
+    "freelance": "FREELANCE",
+    "about": "ABOUT ME",
+    "contact": "CONTACT",
+
+    "main":{
+        "title": "Blog Posts",
+        "subtitle": "I think so, this is it. ",
+        "description": "Design begins after I begin to think about how to present an experience most successfully, whether a button I put in can solve a problem. The only point in design is not ui design, if the user does not have a good experience at the end of the product, the design will be considered unsuccessful in my opinion."
+    },
+
+    "all":{
+        "all": "All",
+        "ui": "UI Design",
+        "ux": "UX Design",
+        "product": "Product Design",
+        "articles": "Articles",
+        "tutorial": "Tutorials",
+        "news": "News"
+    },
+
+    "card":{
+        "date": "NOV 23 2020",
+        "title": "This way is wrong about UI Design.",
+        "description": "A quick guide to assisting users in the challenging steps from learning about your podcast on the web.  A quick guide to assisting users in the  challenging steps from learning about your podcast on the web. ",
+        "read": "READ MORE"
+    }
+}

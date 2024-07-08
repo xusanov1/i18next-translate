@@ -1,0 +1,32 @@
+{
+  "portfolio": "PORTFOLIO",
+  "blog": "Blog",
+  "cv": "CV",
+  "store": "Do'kon",
+  "freelance": "Mustaqil",
+  "about": "Men haqimda",
+  "contact": "Kontakt",
+
+  "main":{
+    "title": "Blog postlar",
+    "subtitle": "Men shunday deb o'ylayman, bu shunday.",
+    "description": "Dizayn men qanday qilib tajribani eng muvaffaqiyatli taqdim etishni, men qo'ygan tugma muammoni hal qila oladimi yoki yo'qligini o'ylay boshlaganimdan keyin boshlanadi. Dizayndagi yagona nuqta ui dizayni emas, agar foydalanuvchi mahsulot oxirida yaxshi tajribaga ega bo'lmasa, dizayn mening fikrimcha muvaffaqiyatsiz deb hisoblanadi."
+  },
+
+  "all":{
+    "all": "Barcha",
+    "ui": "UI dizayn",
+    "ux": "UX dizayn",
+    "product": "Mahsulot dizayn",
+    "articles": "Mavzuyatlar",
+    "tutorial": "Tutoriyalar",
+    "news": "Yangiliklar"
+  },
+
+  "card":{
+    "date": "NOV 23 2020",
+    "title": "Bu UI dizayni yaxshi emas.",
+    "description": "Foydalanuvchilarga o'rganishning qiyin bosqichlarida yordam berish uchun tezkor qo'llanma Internetdagi podkastingiz haqida.  Internetda podkastingiz haqida bilishdan boshlab foydalanuvchilarga qiyin bosqichlarda yordam berish uchun tezkor qo'llanma.",
+    "read": "BARCHA YANGILIKLARINI O'RGANISH"
+  }
+}

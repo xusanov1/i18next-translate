@@ -1,0 +1,44 @@
+.nav{
+    height: 100px;
+    background-color: #ffffff70;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin: 0 10px;
+    gap: 200px;
+    margin-bottom: 100px;
+}
+
+.logos{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+
+}
+
+.nav-list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    gap: 20px;
+}
+
+li a{
+    text-decoration: none;
+    color: rgba(66, 66, 66, 1);
+    font-size: 14px;
+    font-weight: 500;
+}
+
+li select{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: rgba(66, 66, 66, 1);
+    font-size: 14px;
+    font-weight: 500;
+}
