@@ -1,6 +1,5 @@
 import React from 'react'
 import { useTranslation } from 'react-i18next'
-import i18n from '../../locales/i18next';
 import { RxTwitterLogo } from "react-icons/rx";
 import { SlSocialLinkedin } from "react-icons/sl";
 import { PiMediumLogoLight } from "react-icons/pi";
